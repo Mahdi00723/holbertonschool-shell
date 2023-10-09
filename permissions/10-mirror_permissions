@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 491 hello 436 olleh 
+chmod +rwx hello olleh
